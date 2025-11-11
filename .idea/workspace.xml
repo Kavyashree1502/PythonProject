@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01eae950-e9c0-447b-b7a4-426047714c4d" name="Changes" comment="Python_Basic_Code_08/Nov/2025">
+    <list default="true" id="01eae950-e9c0-447b-b7a4-426047714c4d" name="Changes" comment="Python_Functions_08/11/2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +51,22 @@
     "Python.Lab0022_User_Input_Function.executor": "Run",
     "Python.Lab0023_IQ_Program.executor": "Run",
     "Python.Lab0024_Multiple_Args.executor": "Run",
+    "Python.Lab0025_Functions_Loc_Glo_Variable.executor": "Run",
+    "Python.Lab0026_Functions_Decorators.executor": "Run",
+    "Python.Lab0027_Lambda_1.executor": "Run",
+    "Python.Lab0028_List.executor": "Run",
+    "Python.Lab0029_Tuple.executor": "Run",
+    "Python.Lab0030_tuple.executor": "Run",
+    "Python.Lab0031_set.executor": "Run",
+    "Python.Lab0032_set.executor": "Run",
+    "Python.Lab0033_IQ_Program.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab0024_Multiple_Args">
-    <configuration name="Lab0020_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab0033_IQ_Program">
+    <configuration name="Lab0029_Tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB5X" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,11 +75,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_08112025_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/August/ex_11112025_Lambda" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_08112025_Functions/Lab0020_Functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/August/ex_11112025_Lambda/Lab0029_Tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0021_User_Defined_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0030_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB5X" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_08112025_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/August/ex_11112025_Lambda" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_08112025_Functions/Lab0021_User_Defined_functions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/August/ex_11112025_Lambda/Lab0030_tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0022_User_Input_Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0031_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB5X" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_08112025_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/August/ex_11112025_Lambda" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_08112025_Functions/Lab0022_User_Input_Function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/August/ex_11112025_Lambda/Lab0031_set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0023_IQ_Program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0032_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB5X" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_08112025_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/August/ex_11112025_Lambda" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_08112025_Functions/Lab0023_IQ_Program.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/August/ex_11112025_Lambda/Lab0032_set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab0024_Multiple_Args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab0033_IQ_Program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PYATB5X" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex_08112025_Functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/August/ex_11112025_Lambda" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex_08112025_Functions/Lab0024_Multiple_Args.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/August/ex_11112025_Lambda/Lab0033_IQ_Program.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab0024_Multiple_Args" />
-        <item itemvalue="Python.Lab0023_IQ_Program" />
-        <item itemvalue="Python.Lab0021_User_Defined_functions" />
-        <item itemvalue="Python.Lab0022_User_Input_Function" />
-        <item itemvalue="Python.Lab0020_Functions" />
+        <item itemvalue="Python.Lab0033_IQ_Program" />
+        <item itemvalue="Python.Lab0032_set" />
+        <item itemvalue="Python.Lab0031_set" />
+        <item itemvalue="Python.Lab0030_tuple" />
+        <item itemvalue="Python.Lab0029_Tuple" />
       </list>
     </recent_temporary>
   </component>
@@ -200,11 +209,36 @@
       <option name="project" value="LOCAL" />
       <updated>1762596604294</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Python_Functions_08/11/2025">
+      <option name="closed" value="true" />
+      <created>1762614938224</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762614938224</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python_Basic_Code_08/Nov/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python_Basic_Code_08/Nov/2025" />
+    <MESSAGE value="Python_Functions_08/11/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python_Functions_08/11/2025" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/August/ex_11112025_Lambda/Lab0033_IQ_Program.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/August/ex_11112025_Lambda/Lab0033_IQ_Program.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
